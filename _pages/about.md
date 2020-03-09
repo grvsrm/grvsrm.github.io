@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About|Gaurav Sharma"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
