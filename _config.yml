@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Gaurav Sharma"
 title_separator          : "-"
 name                     : &name "Gaurav Sharma"
-description              : &description "Engineer|Data Scientist |Amateur Writer|INTJ"
+description              : #&description " "
 url                      : https://grvsrm.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "grvsrm/grvsrm.github.io"
@@ -77,7 +77,7 @@ analytics:
 author:
   name             : "Gaurav Sharma"
   avatar           : "profile_pic.jpg"
-  bio              : "Engineer|Data Scientist |Amateur Writer|INTJ"
+  bio              : "Engineer | Data Scientist Amateur Writer | INTJ"
   location         : "Jaipur, IN"
   employer         :
   pubmed           : 
