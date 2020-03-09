@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "Gaurav Sharma"
 title_separator          : "-"
 name                     : &name "Gaurav Sharma"
-description              : &description "Engineer|Data Scientist|Amateur Writer|INTJ"
+description              : &description "Engineer|Data Scientist |Amateur Writer|INTJ"
 url                      : https://grvsrm.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "grvsrm/grvsrm.github.io"
