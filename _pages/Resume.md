@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Masters in Business Analytics (AMPBA), Indian School of Business, 2019
