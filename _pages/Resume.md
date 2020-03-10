@@ -21,18 +21,25 @@ Work experience
 * Apr,2017 - Mar,2019 : Manager - Digitization
   * [National Engineering Industries Ltd](https://www.nbcbearings.com/)
   * Major Responsibilities:
-    * Handling Digitization Projects
-    * Conducting Statistical Studies
-    * Formulating Analytical Solutions for Business Problems
+    * Industry 4.0
+      * Handling Digitization Projects
+    * Statistics
+      * Conducting Statistical Analysis & Studies
+      * Conduscting PoCs
+    * Data Science
+      * Formulating Analytical Solutions for Business Problems
   
 
 * Aug,2008 - Mar,2017 : Manager - Operations & Maintenance
   * [National Engineering Industries Ltd](https://www.nbcbearings.com/)
   * Major Responsibilities:
-    * Preventive and Predictive Maintenance, Planning & Execution
-    * Reliability Centered Maintenance, Administration & Control
-    * SAP PM (CMMS), Administration & Control
-    * Outsourced Maintenance, Administration & Control
+    * Planning & Execution
+      * Preventive and Predictive Maintenance (PM & PdM)
+      * Equipment Installation & Commissioning
+    * Administration & Control
+      * Reliability Centered Maintenance (RCM)
+      * SAP PM (CMMS) 
+      * Outsourced Maintenance (AMC)
   
 Skills
 ======
