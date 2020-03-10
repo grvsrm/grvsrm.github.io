@@ -12,12 +12,12 @@ redirect_from:
 
 Education
 ======
-* Masters in Business Analytics (AMPBA), Indian School of Business, 2019
+* Masters in Business Analytics (AMPBA), [Indian School of Business](https://www.isb.edu/), 2019
 * BE in ECE, [Jaipur Engineering College & Research Centre](https://jecrc.in/), 2008
 
 Work experience
 ======
-* Apr-2017 - Mar-2019 : Manager - Digitization
+* Apr,2017 - Mar,2019 : Manager - Digitization
   * [National Engineering Industries Ltd](https://www.nbcbearings.com/)
   * Major Responsibilities:
     * Handling Digitization Projects
@@ -25,10 +25,13 @@ Work experience
     * Formulating Analytical Solutions for Business Problems
   
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug,2008 - Mar,2017 : Manager - Operations & Maintenance
+  * [National Engineering Industries Ltd](https://www.nbcbearings.com/)
+  * Major Responsibilities:
+    * Preventive and Predictive Maintenance, Planning & Execution
+    * Reliability Centered Maintenance, Administration & Control
+    * SAP PM (CMMS), Administration & Control
+    * Outsourced Maintenance, Administration & Control
   
 Skills
 ======
