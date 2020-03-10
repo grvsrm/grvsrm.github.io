@@ -9,17 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+Education
 ======
 * Masters in Business Analytics (AMPBA), Indian School of Business, 2019
-* BE in ECE, Jaipur Engineering College & Research Centre, 2008
+* BE in ECE, [Jaipur Engineering College & Research Centre](https://jecrc.in/), 2008
 
-##Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr-2017 - Mar-2019 : Manager - Digitization
+  * [National Engineering Industries Ltd](https://www.nbcbearings.com/)
+  * Major Responsibilities:
+    * Handling Digitization Projects
+    * Conducting Statistical Studies
+    * Formulating Analytical Solutions for Business Problems
+  
 
 * Fall 2015: Research Assistant
   * Github University
@@ -28,12 +31,16 @@ redirect_from:
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis
+  * R
+  * MS Excel
+* Data Visualization
+  * Tableau
+  * ggplot2(R)
+* Manufacturing
+  * Industry 4.0
+  * Relaibility (RCM)
+  * SAP PM
 
 Publications
 ======
