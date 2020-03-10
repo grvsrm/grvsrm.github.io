@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+##Education
 ======
 * Masters in Business Analytics (AMPBA), Indian School of Business, 2019
 * BE in ECE, Jaipur Engineering College & Research Centre, 2008
 
-Work experience
+##Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
